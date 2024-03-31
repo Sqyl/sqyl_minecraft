@@ -1,0 +1,28 @@
+吸血鬼 - Vampirism - 1.9.5  Link: https://www.mcmod.cn/class/930.html
+农夫乐事 - FarmersDelight - 1.2.4  Link: https://www.mcmod.cn/class/2820.html
+帕斯特之梦 - PasterDream - beta0.1.8-3  Link: https://www.mcmod.cn/class/8530.html
+伊卡洛斯之翼 - Icaruswings - 0.5.0  Link: https://www.mcmod.cn/class/4386.html
+天神剑技 - Celestisynth - 1.1.5  Link: https://www.mcmod.cn/class/10688.html
+天境 - The Aether - 1.1.0  Link: https://www.mcmod.cn/class/94.html
+暮色森林 - The Twilight Forest - 4.2.1518  Link: https://www.mcmod.cn/class/61.html
+你再造！ - Remodifier - 2.2.1 Link: https://www.mcmod.cn/class/11177.html
+
+辅助包：
+V1.2 新增：
+旅行地图 - JourneyMap - 5.9.8
+V1.1 新增：
+物品管理器 - JEI - Just Enough Items - 11.6.0.1019
+高亮 - WTHIT - What the Hell is it - 5.23.0
+命令 - TeleportCraft - 1.1.2
+一键整理 - IPN - Inventory Profiles Next - 1.10.9
+V1.0:
+帕秋莉手册 - Patchouli - 77
+
+依赖包：
+V1.1 新增：
+KotlinForForge - 3.12.0
+Bad Packets - 0.2.3
+V1.0:
+geckolib - 3.1.40
+PlayerAnimation - 1.0.2
+libIPN - 4.0.1
