@@ -1,0 +1,671 @@
+{
+  "name": "SqyL-Private-Server",
+  "author": "SqyL",
+  "version": "1.2",
+  "description": "Sqyl Server V1.2.0\n\n更新内容：\n\n添加了小地图mod：journeymap v5.9.8\n\n现在可使用新生成的具有自动更新功能的整合包了\n\n自动更新功能不支持V1.1及以下的整合包",
+  "fileApi": "http://123.57.185.201:18080/mcserver",
+  "files": [
+    {
+      "path": "config/aether/aether_customizations.txt",
+      "hash": "b9f71c03578eef752fe3c401112845574529aef1"
+    },
+    {
+      "path": "config/aether/sun_altar_whitelist.json",
+      "hash": "97d170e1550eee4afc0af065b78cda302a97674c"
+    },
+    {
+      "path": "config/aether-client.toml",
+      "hash": "40b4991da4243133063bc07d126585f7f3ea84c9"
+    },
+    {
+      "path": "config/aether-common.toml",
+      "hash": "22c62d27230f4d067c7ad329207e3b04bc289e98"
+    },
+    {
+      "path": "config/celestisynth/celestisynth-client.toml",
+      "hash": "2d97e6332d2973eae96c0ba44b35d5b1a3916cb1"
+    },
+    {
+      "path": "config/celestisynth/celestisynth-common.toml",
+      "hash": "8fb394dc8185266e24dc6f917d7bc7baeb157124"
+    },
+    {
+      "path": "config/cumulus_menus-client.toml",
+      "hash": "c7b1516f468603c3c8b9fd4e630e2e7ee25a6b43"
+    },
+    {
+      "path": "config/curios-client.toml",
+      "hash": "ee5607552a851c19ef1d53c6e4bac5c307d10524"
+    },
+    {
+      "path": "config/farmersdelight-client.toml",
+      "hash": "7109adf50788f4bf5797dd3809ad0dc923c8f023"
+    },
+    {
+      "path": "config/farmersdelight-common.toml",
+      "hash": "a0fbeadaf9f7876059852ca40e903d9ad4d0ac48"
+    },
+    {
+      "path": "config/fml.toml",
+      "hash": "6d6bbddc45da54415df155f7f99ebef8f700a307"
+    },
+    {
+      "path": "config/forge-client.toml",
+      "hash": "fd55bc2efff3839efb1ba4f292e010e6e5837a01"
+    },
+    {
+      "path": "config/forge-common.toml",
+      "hash": "f76722c529494d7b78ab5ad607fff4463866673b"
+    },
+    {
+      "path": "config/forge-resource-caching.toml",
+      "hash": "d14d4fec6929e794e0ddaa8598023655e9973b17"
+    },
+    {
+      "path": "config/forge.cfg",
+      "hash": "6c8b4397b26c1aebdaf6df5c05f406c443a52380"
+    },
+    {
+      "path": "config/forgeChunkLoading.cfg",
+      "hash": "5cebbd950e8dfd612ac435b71589459e0578b330"
+    },
+    {
+      "path": "config/inventoryprofilesnext/123.57.185.201\u002640158/prev-villager-trading-config.json",
+      "hash": "72e1edc69ca1f97139ff84a7fa029ebe7d275924"
+    },
+    {
+      "path": "config/inventoryprofilesnext/123.57.185.201\u002640158/villager-trading-config.json",
+      "hash": "84833e7550ada8e23472c03ddd9393202675a269"
+    },
+    {
+      "path": "config/inventoryprofilesnext/127.0.0.1\u002625565/villager-trading-config.json",
+      "hash": "72e1edc69ca1f97139ff84a7fa029ebe7d275924"
+    },
+    {
+      "path": "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json",
+      "hash": "2bedb4d58a778b937dd9da01c50a46af9887709b"
+    },
+    {
+      "path": "config/inventoryprofilesnext/inventoryprofiles.json",
+      "hash": "58b81b870399a90daad1a3249c68c2d5bd18abf9"
+    },
+    {
+      "path": "config/jei/blacklist.cfg",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "config/jei/ingredient-list-mod-sort-order.ini",
+      "hash": "956230219dcc7f76a3c707befbe6d86f0b0e23db"
+    },
+    {
+      "path": "config/jei/ingredient-list-type-sort-order.ini",
+      "hash": "96d0a6c3c6c0428d870d1a2db4f29857d9e3ce11"
+    },
+    {
+      "path": "config/jei/jei-client.ini",
+      "hash": "bf41efd049a47218c26d28b6c88222a0bab76ac7"
+    },
+    {
+      "path": "config/jei/jei-colors.ini",
+      "hash": "c973cab829ccdc4dd2d0f56ebd27b10e33678ad4"
+    },
+    {
+      "path": "config/jei/jei-debug.ini",
+      "hash": "d7f78b145773baf483733330fe24c75824a848ab"
+    },
+    {
+      "path": "config/jei/jei-mod-id-format.ini",
+      "hash": "deff4edb19c6e15cc79c24d043e7cadc21adbfe7"
+    },
+    {
+      "path": "config/jei/recipe-category-sort-order.ini",
+      "hash": "1fe93f27c96bdf70d53691263cce3d5bc4c33f1c"
+    },
+    {
+      "path": "config/jei/world/server/sqyl-v1_0_c417a901/bookmarks.ini",
+      "hash": "18af282e4ebfa6aea0138eee934ec9d5245ac44e"
+    },
+    {
+      "path": "config/locusazzurro_icaruswings-common.toml",
+      "hash": "0893bbfecd7c46641d03e235db701e068227f7da"
+    },
+    {
+      "path": "config/pasterdream.toml",
+      "hash": "e4a3d20c854545fd812a23dc06cfb0cf2348c94a"
+    },
+    {
+      "path": "config/patchouli-client.toml",
+      "hash": "e4987ed22204ca092b2d62a5fa1a065fe88fd9b2"
+    },
+    {
+      "path": "config/remodifier/armor/violent.json",
+      "hash": "d12463d866fed11ec66531d7b2e6fed009270581"
+    },
+    {
+      "path": "config/remodifier/armor-modifiers.toml",
+      "hash": "27114f3d071a167f844514d450e1aa97e332998f"
+    },
+    {
+      "path": "config/remodifier/bow-modifiers.toml",
+      "hash": "2c66f260f7b0495c54fadaa59e649efa0e26b4a3"
+    },
+    {
+      "path": "config/remodifier/curios-modifiers.toml",
+      "hash": "410345003f679664771092c8a6d6243d1c77e507"
+    },
+    {
+      "path": "config/remodifier/reforge.toml",
+      "hash": "a65dbd5ec139a931409279e79f10b8580cf745f7"
+    },
+    {
+      "path": "config/remodifier/shield-modifiers.toml",
+      "hash": "e01da40125377fddf95e18cd23d0255f1b1826ff"
+    },
+    {
+      "path": "config/remodifier/tool-modifiers.toml",
+      "hash": "79d22ac7843bb5ae7ac6c08901b70fb9591588ca"
+    },
+    {
+      "path": "config/splash.properties",
+      "hash": "04adab938529594261036e5734dd63a0f9be5871"
+    },
+    {
+      "path": "config/twilightforest-client.toml",
+      "hash": "6a6dca14373b6176ab5148bc220cb4534d080862"
+    },
+    {
+      "path": "config/twilightforest-common.toml",
+      "hash": "af60ff29286374158311a117768217710c9629a3"
+    },
+    {
+      "path": "config/vampirism-client.toml",
+      "hash": "35b52027f812ddb8af14cdc1e60ebae7181a0311"
+    },
+    {
+      "path": "config/vampirism-common.toml",
+      "hash": "d8d66e95c8a875cd05d5258cd544b14f267a0813"
+    },
+    {
+      "path": "config/waila/blacklist.json",
+      "hash": "f3fc2ecc234cd85f9f7153b5d2f52f3d044152f5"
+    },
+    {
+      "path": "config/waila/extra/energy_blacklist.json",
+      "hash": "5dbf252b44802a2af8a36ef9ffd5051ddf7e8ce8"
+    },
+    {
+      "path": "config/waila/extra/fluid_blacklist.json",
+      "hash": "b7559898d00e8d34ceab8ea95ac43ae4218ca275"
+    },
+    {
+      "path": "config/waila/extra/item_blacklist.json",
+      "hash": "6c1996c8dce61b287ea86964bd0468d575cd45d6"
+    },
+    {
+      "path": "config/waila/extra/progress_blacklist.json",
+      "hash": "8df345fde105a439e69fb8a25f050b009111fefe"
+    },
+    {
+      "path": "config/waila/plugin_toggle.json",
+      "hash": "f848bda40d9cea33247a0005c5f06c34cd146047"
+    },
+    {
+      "path": "config/waila/waila.json",
+      "hash": "47b34e5334d4c2dfc70d6a6a182089a744c6ebda"
+    },
+    {
+      "path": "config/waila/waila_plugins.json",
+      "hash": "a688f1244bdcb715f6009d75f6d1795d2d8c5237"
+    },
+    {
+      "path": "journeymap/config/5.9/journeymap.core.config",
+      "hash": "df524c54a965c0623c9ad4553156a4b6631fcf07"
+    },
+    {
+      "path": "journeymap/config/5.9/journeymap.fullmap.config",
+      "hash": "299b28fc6329a0dc37084ba60723e5d45337fd7b"
+    },
+    {
+      "path": "journeymap/config/5.9/journeymap.minimap.config",
+      "hash": "85bfbbbbb95a1b36185aec2d7301d82bcabb8d3a"
+    },
+    {
+      "path": "journeymap/config/5.9/journeymap.minimap2.config",
+      "hash": "f6a473aed2602d8a9297524a5386d493718313c7"
+    },
+    {
+      "path": "journeymap/config/5.9/journeymap.topo.config",
+      "hash": "86ed27fb73a9436bd1c0245284e959425fa79673"
+    },
+    {
+      "path": "journeymap/config/5.9/journeymap.waypoint.config",
+      "hash": "308437ed4b43957e65d2672320278ce8f1c36298"
+    },
+    {
+      "path": "journeymap/config/5.9/journeymap.webmap.config",
+      "hash": "232e921399a982f81b127eeffc0d48fbd4ea0e97"
+    },
+    {
+      "path": "journeymap/icon/theme/default.theme.config",
+      "hash": "3bd6fa9af17717b6d0ccce4133b35f7626d4456d"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/container/htoolbar_begin.png",
+      "hash": "c811bcdeb1c19ebf433754025e1df1e3bf363061"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/container/htoolbar_end.png",
+      "hash": "c811bcdeb1c19ebf433754025e1df1e3bf363061"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/container/htoolbar_inner.png",
+      "hash": "5d8dc0dcbd3d03f3c63067e7649ccdc4b569fe2d"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/container/vtoolbar_begin.png",
+      "hash": "43a040a085427452ae129d7cb85be6a03163ad32"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/container/vtoolbar_end.png",
+      "hash": "43a040a085427452ae129d7cb85be6a03163ad32"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/container/vtoolbar_inner.png",
+      "hash": "5d8dc0dcbd3d03f3c63067e7649ccdc4b569fe2d"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/control/flat_button_disabled.png",
+      "hash": "e27387d7955b065cf7a05d22543b1756709869c9"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/control/flat_button_hover.png",
+      "hash": "e27387d7955b065cf7a05d22543b1756709869c9"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/control/flat_button_off.png",
+      "hash": "e27387d7955b065cf7a05d22543b1756709869c9"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/control/flat_button_on.png",
+      "hash": "e27387d7955b065cf7a05d22543b1756709869c9"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/control/flat_toggle_disabled.png",
+      "hash": "eb48555b5aa3640baafc658aa32e8a69d2c06568"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/control/flat_toggle_hover.png",
+      "hash": "be10c006eab72f086d5cca11ec2bcd785d8ce2f4"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/control/flat_toggle_off.png",
+      "hash": "eb48555b5aa3640baafc658aa32e8a69d2c06568"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/control/flat_toggle_on.png",
+      "hash": "26a258d5bd8490909fe269611aa4bd574bc94de1"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/DesertTemple.theme2.json",
+      "hash": "a3d83b043da95ad37da725188ceeb366757fbfe9"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/EndCity.theme2.json",
+      "hash": "9ee7ec3ffdec2c1f9261151e71634974db6fffc8"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/ForestMansion.theme2.json",
+      "hash": "ca3e1d41c0bba4005aa50c3ceb8a98c1fbb1dee6"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/about.png",
+      "hash": "f461cc3b3cd611558247fb7ecd033594e68c9f08"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/actions.png",
+      "hash": "5b88aac3387e5f63b5ba29c284191a99646c4629"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/alert.png",
+      "hash": "2c2178c4d11aa2f4f70e390441ecc3c2adc6966c"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/animals.png",
+      "hash": "1fc66426ce53560f90a0bca24890b0c8714b2d21"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/automap.png",
+      "hash": "1da71cdc3d72a1521e77f52923dbe9255d23f67f"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/biome.png",
+      "hash": "9ecf86ef136b0f24f2dfa01911047172f3c42442"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/browser.png",
+      "hash": "3106c770f53d40a6c867da80bb665419df611af9"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/caves.png",
+      "hash": "562edb7762f675de702cdc7bc657d7446693880e"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/close.png",
+      "hash": "e5ca87379db037c679fb92d0072f784443afede4"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/day.png",
+      "hash": "7bfe8be57f5a770ae008effd7d0cac955f92d91c"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/delete.png",
+      "hash": "07ecdeea6b5a238bf4b5b2efdf97b1ca2ccb0b39"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/disable.png",
+      "hash": "f96c307ae700a3843dfba981a0cf46043c5dda07"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/follow.png",
+      "hash": "c1b1f897797021eb5fae548382de10b97f946905"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/grid.png",
+      "hash": "09afd9fa4691b587c929c6ccdf7a636d5692dee1"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/keys.png",
+      "hash": "1d89290ae4fafaaeefe5e68373a25ac1e99b6b56"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/layers.png",
+      "hash": "8806ccc808740ec8d6ec48c412c0d951f8e71212"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/monsters.png",
+      "hash": "a05471a2929bb4777a817a1118b1ac47de1020c1"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/night.png",
+      "hash": "0f9fe8a76a4b0feaa219b091694b585e8d9ceeda"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/options.png",
+      "hash": "1e7f049470b34ed17319fd6c4b45e0ff75e06530"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/pets.png",
+      "hash": "4cb5c9ac069d5bb608f2b671efbf6457eee54842"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/players.png",
+      "hash": "171c188e205ae5c6d447e4c52cfb3af905e83f4f"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/reset.png",
+      "hash": "1186e004bdca5beb00b239de902e154167b717fb"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/savemap.png",
+      "hash": "1e4bf7ac739866f58a1dee5498c45678fe49520f"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/search.png",
+      "hash": "8687431972527680ef2cfaa7913d0fdee8d3c1fc"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/server.png",
+      "hash": "f93f98b8561edae9cf52c96081e72b242e28ed66"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/theme.png",
+      "hash": "6ca282b7cbcea8e009ba4be265095b0e7a8b0973"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/topo.png",
+      "hash": "61f6b3c5c7983593a78f9771b1f4b3655415c3c5"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/villagers.png",
+      "hash": "20979056701ba640c4c50cb5aff1ba9dd875cd91"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/waypoints.png",
+      "hash": "978ea1cdd28da49282d4456f061c2c924c20a70a"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/zoomin.png",
+      "hash": "a93758aecf369719b0517212c979b983c29b4741"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/icon/zoomout.png",
+      "hash": "3e20bc40df2b7667048ac037b85363f733881ed4"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/circle/flat_compass_point.png",
+      "hash": "26adc50b1d9a1c13b4d26d70433649775ba5fe0a"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/circle/flat_mask_256.png",
+      "hash": "4367fc3d812d8d5f81c6746f701fcd135645b3b5"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/circle/flat_mask_512.png",
+      "hash": "5e3b19479e3bc0bf3af60c4482e779787d5c2e52"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/circle/flat_rim_256.png",
+      "hash": "aa405337c289ec63a01e72b8f8e7a3841cc35c0d"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/circle/flat_rim_512.png",
+      "hash": "123813da9ba84038e69af47787adb62000b7cc30"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/circle/pur_compass_point.png",
+      "hash": "ab425705e2ae45e4db27b6f1af974e8303ef788b"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/circle/pur_mask_256.png",
+      "hash": "da3be616803ff558b8980ccac8ba77d64fe9b39a"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/circle/pur_mask_512.png",
+      "hash": "65e0f984f11c10b015d22126d90345e647400875"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/circle/pur_rim_256.png",
+      "hash": "3e7846fe3fc526c6bb7cf6497dd8a719eadeab84"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/circle/pur_rim_512.png",
+      "hash": "3a8dc933863889e61ad7476938957f8e5f439ff0"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/square/flat_bottom.png",
+      "hash": "fcf50a822335d1a9658175f3094e385c01800274"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/square/flat_bottomleft.png",
+      "hash": "3b63a83f6f8ba1dea73eff5f2bb0f2d324202bc9"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/square/flat_bottomright.png",
+      "hash": "44bdb215f3bad82e2c2192cd13bd679662f7a7d6"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/square/flat_compass_point.png",
+      "hash": "25b7af0026492c5e3faefcf47b1e29ec98032fc5"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/square/flat_left.png",
+      "hash": "f3592b1ac4b9468c38e5b6d8332200e769e31355"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/square/flat_right.png",
+      "hash": "5988717bde8ef0060b6dc920f655ebbbaaabce40"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/square/flat_top.png",
+      "hash": "60ef85784d07de0d1ab0500560af9e8b5387aec5"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/square/flat_topleft.png",
+      "hash": "691f58cc7ca8b938b857c8de077a08b883b66389"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/square/flat_topright.png",
+      "hash": "b5edd14dfe4f8d55800da0de8b43e3fc00c96332"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/square/pur_bottom.png",
+      "hash": "a3884c4387c24963f666f51032e1766d87697bea"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/square/pur_bottomleft.png",
+      "hash": "63cbad15df737b563dc20ec9aa573c68e527aca5"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/square/pur_bottomright.png",
+      "hash": "df136d1e11230fa8d0fe0fb84f2081247f4262a9"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/square/pur_compass_point.png",
+      "hash": "25b7af0026492c5e3faefcf47b1e29ec98032fc5"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/square/pur_left.png",
+      "hash": "48a3168d150c7045ac459149e6ac770d00dc7026"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/square/pur_right.png",
+      "hash": "8f3f23ff88192e6cc56172673680e4e669df894f"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/square/pur_top.png",
+      "hash": "08c8eeae6beec6a456207704751ec28208d604ab"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/square/pur_topleft.png",
+      "hash": "092d5e14d84f3a385176098541f41e75401ef91d"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/minimap/square/pur_topright.png",
+      "hash": "80ac51b7bbdd40d1982cbbe8d8644a0c4bbefd97"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/NetherFortress.theme2.json",
+      "hash": "e8ace1c6652343c3f3647c88a9dc44bdb04f7cd7"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/OceanMonument.theme2.json",
+      "hash": "29b64ee8830fc876491e134f1f6485bfaac27f64"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/Purist.theme2.json",
+      "hash": "6889bb94b1f6d74d3eb392599593a011ee2670b8"
+    },
+    {
+      "path": "journeymap/icon/theme/flat/Stronghold.theme2.json",
+      "hash": "504bb40aea12eea7e23dbbd79dc6af803e9bd7fd"
+    },
+    {
+      "path": "mods/aether-1.19.2-1.1.0-forge.jar",
+      "hash": "edf81c53688304a8ef737f7b23a3ae02f86bace5"
+    },
+    {
+      "path": "mods/badpackets-forge-0.2.3.jar",
+      "hash": "22d57703594013418aeed69563d9b1018efe5cd5"
+    },
+    {
+      "path": "mods/celestisynth-1.19.2-1.1.5.jar",
+      "hash": "c95bf1f66059348b071fab2cf5a19b737f62d2c3"
+    },
+    {
+      "path": "mods/curios-forge-1.19.2-5.1.6.1.jar",
+      "hash": "eb2eac0ccd2c029f25e41d1fb3aedd720e112994"
+    },
+    {
+      "path": "mods/FarmersDelight-1.19.2-1.2.4.jar",
+      "hash": "7474aaf58f3001455db9426d4bf36bc3e80455f1"
+    },
+    {
+      "path": "mods/geckolib-forge-1.19-3.1.40.jar",
+      "hash": "92a447e19afe1a23a33219f5428b2198a58094f4"
+    },
+    {
+      "path": "mods/InventoryProfilesNext-forge-1.19-1.10.9.jar",
+      "hash": "c6c39adffa000b5cb5636b2bf35f351ec3810181"
+    },
+    {
+      "path": "mods/jei-1.19.2-forge-11.6.0.1019.jar",
+      "hash": "cd88178eb2ebc964ee86885585cb3f916eb9a910"
+    },
+    {
+      "path": "mods/journeymap-1.19.2-5.9.8-forge.jar",
+      "hash": "a6d578414e119c93dd2529d2b006b289b3a0c245"
+    },
+    {
+      "path": "mods/kotlinforforge-3.12.0-all.jar",
+      "hash": "cf09c1be6d8950e3f7551f02f141818aee5a3ec0"
+    },
+    {
+      "path": "mods/libIPN-forge-1.19-4.0.1.jar",
+      "hash": "8b25bb160f0f8bb910b1a3df0e2f13a6bc0e5e06"
+    },
+    {
+      "path": "mods/locusazzurro_icaruswings-1.19.2-0.5.0.jar",
+      "hash": "2c779d84fbf41349d85c3f90be53a60ec16e4867"
+    },
+    {
+      "path": "mods/PasterDream-forge1.19.2-beta0.1.8-3.jar",
+      "hash": "2827646a280d5354b4f624916669bb116ca390ff"
+    },
+    {
+      "path": "mods/Patchouli-1.19.2-77.jar",
+      "hash": "cfccf39046a5d375647c6b85d8191b76bbd5f9d6"
+    },
+    {
+      "path": "mods/player-animation-lib-forge-1.0.2.jar",
+      "hash": "e5f209aaab789eade2ef2c1a7dc37d6b20faa038"
+    },
+    {
+      "path": "mods/remodifier-1.19.2-2.2.1.jar",
+      "hash": "615b0a2f618dd571b3555fae13d8fee1be3c573f"
+    },
+    {
+      "path": "mods/teleportcraft-1.1.2-1.19.2.jar",
+      "hash": "1bc38da70056efed8307156933221af3c2b5dd49"
+    },
+    {
+      "path": "mods/twilightforest-1.19.2-4.2.1518-universal.jar",
+      "hash": "3b861353a3c6416add4b04bf3f025dd088bc512f"
+    },
+    {
+      "path": "mods/Vampirism-1.19.2-1.9.5.jar",
+      "hash": "77cb2207211df3915343b0659cc0773977e8b3d0"
+    },
+    {
+      "path": "mods/wthit-forge-5.23.0.jar",
+      "hash": "e672443be53dff66f3ad31374643f1a2db7a288a"
+    },
+    {
+      "path": "patchouli_data.json",
+      "hash": "231380073231d2812497b2be8d12dd38fef3ead8"
+    },
+    {
+      "path": "servers.dat_old",
+      "hash": "d97508725bd5d5c124a97c6f642f4971175f0ffb"
+    }
+  ],
+  "addons": [
+    {
+      "id": "game",
+      "version": "1.19.2"
+    },
+    {
+      "id": "forge",
+      "version": "43.3.0"
+    }
+  ]
+}

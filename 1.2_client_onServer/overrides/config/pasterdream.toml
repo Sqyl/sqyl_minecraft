@@ -1,0 +1,13 @@
+
+[General]
+	#Whether to enable module bulletins？ Default:true
+	"announcement open" = true
+	#Whether to enable teleportation? Default:true
+	"teleportation open" = true
+	#Adjusted the cooldown of Teleportation Default:20 Unit:tick
+	"teleportation cd" = 20.0
+
+[Compatibility]
+	#Turn off the delay function of the experience boost buff, which may normally be used for compatibility with other mods to prevent the possibility of infinite brush experience.
+	"ExpupBuff  Time delay" = true
+
